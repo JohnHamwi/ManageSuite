@@ -60,3 +60,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT: Contact information for the project maintainer -->
 ## Contact
 John Hamwi - [@Trippixn](https://twitter.com/trippixn) - john.hamwi10@gmail.com
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/johnhamwi/) 
