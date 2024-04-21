@@ -33,7 +33,7 @@ ManageSuite includes three core services:
 To start using ManageSuite:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/managesuite
+git clone https://github.com/johnhamwi/managesuite
 ```
 
 <!-- EXAMPLES OF USAGE: Examples showing how to use the project -->
